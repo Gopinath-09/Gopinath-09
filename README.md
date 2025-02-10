@@ -63,7 +63,8 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gopinath-09/Gopinath-09/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gopinath-09/Gopinath-09/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
