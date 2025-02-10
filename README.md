@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="PCBG.png"  />
+  <img height="200" src="img.jpg"  />
 </div>
 
 ###
