@@ -5,7 +5,6 @@
 ###
 
 <h2 align="center">Hi 👋! I'm Gopinath, Full-Stack Developer</h2>
-<br clear="both">
 ###
 <br clear="both">
 <div align="center">
