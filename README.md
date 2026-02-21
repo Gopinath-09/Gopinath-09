@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! I'm Gopinath, Full-Stack Developer</h2>
+<h2 align="center">Hi 👋! I'm Gopinath, Full-Stack Developer | GEN-AI</h2>
 
 ###
 
